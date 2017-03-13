@@ -1,0 +1,1 @@
+package core.mapper;import core.model.Student;import framework.mapper.BaseMapper;import org.apache.ibatis.annotations.Param;/** * Created by gipin on 2017/3/6. */public interface StudentMapper extends BaseMapper<Student> {     int insert(Student student);}

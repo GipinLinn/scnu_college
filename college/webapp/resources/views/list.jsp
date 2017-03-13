@@ -1,0 +1,1 @@
+<%--  Created by IntelliJ IDEA.  User: gipin  Date: 2017/1/7  Time: 15:09  To change this template use File | Settings | File Templates.--%><%@ page contentType="text/html;charset=UTF-8" language="java" %><html><head>    <title>测试页面</title></head><body>欢迎来到华南师范大学</body></html>

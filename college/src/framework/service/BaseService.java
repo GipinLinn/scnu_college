@@ -1,0 +1,1 @@
+package framework.service;import org.springframework.stereotype.Service;/** * Created by gipin on 2017/3/6. */public interface BaseService<T>{    public int insert(T record);}

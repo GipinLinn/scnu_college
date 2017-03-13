@@ -1,0 +1,1 @@
+package framework.mapper;import org.apache.ibatis.annotations.Param;/** * Created by gipin on 2017/3/6. */public interface BaseMapper<T> {    /**     * 新增     * @param t     * @return     */     int insert(T t);}
